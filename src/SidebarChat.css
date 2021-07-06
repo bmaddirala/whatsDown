@@ -1,0 +1,30 @@
+.sidebarChat{
+    padding: 20px;
+    cursor: pointer;
+    border-bottom: 1px solid white;
+}
+.sidebarChat:hover{
+    background-color: white;
+}
+
+.sidebarChat_info > h2{
+    font-size: 16px;
+    margin: 0px;
+}
+
+.sidebarChat_info > p{
+    margin: 0px;
+}
+
+.sidebarChat_info{
+    margin-left: 15px;
+}
+
+.add-new-chat-title{
+    margin: 0px 0px 0px 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
